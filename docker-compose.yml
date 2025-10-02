@@ -1,0 +1,32 @@
+﻿services:
+  db:
+    image: mysql:8
+    container_name: parte2_db
+    environment:
+      MYSQL_ROOT_PASSWORD: 1234
+      MYSQL_DATABASE: miapp
+    ports:
+      - "3307:3306"     # usa 3306 si lo tenés libre
+    volumes:
+      - db_data:/var/lib/mysql
+    networks: [appnet]
+
+  web:
+    build: ./web
+    container_name: parte2_web
+    environment:
+      DB_HOST: db
+      DB_NAME: miapp
+      DB_USER: root
+      DB_PASS: 1234
+    ports:
+      - "8080:80"
+    depends_on: [db]
+    networks: [appnet]
+
+networks:
+  appnet:
+    driver: bridge
+
+volumes:
+  db_data:
