@@ -10,12 +10,17 @@ Construir y levantar los contenedores:
 
 bash
 Copiar código
+```bash
 docker-compose up --build
 Verificar que los contenedores estén activos:
+```
 
 bash
 Copiar código
+
+```bash
 docker ps
+```
 
 
 
