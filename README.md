@@ -20,7 +20,6 @@ docker ps
 
 
 
-🌐 Acceso en el navegador
 La aplicación PHP estará disponible en:
 👉 http://localhost:8081
 
