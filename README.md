@@ -6,7 +6,7 @@
    ```bash
    git clone https://github.com/tu-usuario/programacion-web.git
    cd programacion-web
-Construir y levantar los contenedores:
+2. Construir y levantar los contenedores:
 
 bash
 Copiar código
@@ -14,9 +14,7 @@ Copiar código
 docker-compose up --build
 
 ```
-Verificar que los contenedores estén activos:
-bash
-Copiar código
+3. Verificar que los contenedores estén activos:
 
 ```bash
 docker ps
