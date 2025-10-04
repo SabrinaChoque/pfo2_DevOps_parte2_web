@@ -9,8 +9,8 @@
 2. Construir y levantar los contenedores:
 
 bash
-Copiar código
-```bash
+
+```
 docker-compose up --build
 
 ```
