@@ -12,9 +12,9 @@ bash
 Copiar código
 ```bash
 docker-compose up --build
-Verificar que los contenedores estén activos:
-```
 
+```
+Verificar que los contenedores estén activos:
 bash
 Copiar código
 
