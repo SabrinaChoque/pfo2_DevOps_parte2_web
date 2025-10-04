@@ -8,8 +8,6 @@
    cd programacion-web
 2. Construir y levantar los contenedores:
 
-bash
-
 ```
 docker-compose up --build
 
