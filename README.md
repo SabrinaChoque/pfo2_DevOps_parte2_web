@@ -1,9 +1,9 @@
 # Practica formativa obligatoria Parte 2.␣␣
 
 
- Grupo 4 - ComisionD.␣␣
+ Grupo 4 - ComisionD.
 
-Alumnos:.␣␣
+Alumnos:.
 
 Coronel burgos damian,
 userGit: damiancoronelburgos,
@@ -15,7 +15,7 @@ Cubas Alejandro,
  userGit: AACubas.
 
 Castro Federico, 
- userGit: castrofederico93..␣␣
+ userGit: castrofederico93..
 
 
 
