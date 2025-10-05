@@ -1,4 +1,28 @@
-# Practica formativa obligatoria Parte 2
+# Practica formativa obligatoria Parte 2.␣␣
+
+
+ Grupo 4 - ComisionD.␣␣
+
+Alumnos:.␣␣
+
+Coronel burgos damian,
+userGit: damiancoronelburgos,
+
+Choque Sabrina, 
+ userGit: SabrinaChoque.
+
+Cubas Alejandro, 
+ userGit: AACubas.
+
+Castro Federico, 
+ userGit: castrofederico93..␣␣
+
+
+
+
+
+
+
 
 ## ⚙️ Levantar el proyecto
 
